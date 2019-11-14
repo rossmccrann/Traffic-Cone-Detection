@@ -1,4 +1,12 @@
+We were tasked with implementing a simulation for a self driving car that would allow for a real life car (the formula trinity autonomous departments race car) to take in information from the outside world using lidar and cameras and display it to our simulation engine. This would give our client a good visual representation of what we were planning to do and implement for them, by having a car drive around the silverstone race track in the United Kingdom without any human interaction. The main premise of the trinity autonomous department is to race a full lap without having anybody sit in the car.
+
+![FT Image](https://github.com/rossmccrann/Traffic-Cone-Detection/blob/master/Ft.png)
+
+![HUD Image](https://github.com/rossmccrann/Traffic-Cone-Detection/blob/master/HUD.png)
+
+
 # Traffic-Cone-Detection
+
 Orange Traffic Cone Detection in C#
 
 Description of algorithms:
